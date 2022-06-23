@@ -1,0 +1,639 @@
+2022-06-23 06:50:07,781 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 06:50:07,823 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 06:50:07,829 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 06:50:18,420 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 06:50:18,451 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 06:50:18,481 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 06:50:18,581 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:50:18] "GET / HTTP/1.1" 200 -
+2022-06-23 06:50:18,687 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:50:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 06:50:18,719 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:50:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 06:50:22,202 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:50:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-06-23 06:51:48,880 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:35} gre_score=337.0, toefl_score=118.0, university_rating=4.0
+2022-06-23 06:51:48,881 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:36} sop=4.5, lor=4.5, cgpa=9.65, research=1
+2022-06-23 06:51:48,882 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:38} Model Loading
+2022-06-23 06:51:49,388 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:40} Model Loaded
+2022-06-23 06:51:49,393 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:43} prediction=[9.4878656]
+2022-06-23 06:51:49,394 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:45} Render Result
+2022-06-23 06:51:49,481 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:51:49] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2022-06-23 06:51:49,581 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:51:49] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-23 06:51:49,683 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:51:49] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-23 06:51:50,263 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:51:50] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-23 06:54:57,004 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Detected change in 'D:\\iNeuron\\FSDS\\Projects\\ML Projects\\Linear Regression\\AdmissionPrediction\\app.py', reloading
+2022-06-23 06:54:57,603 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 06:57:13,653 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 06:57:13,698 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 06:57:13,704 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 06:57:25,235 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 06:57:25,269 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 06:57:25,301 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 06:57:32,394 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:57:32] "GET / HTTP/1.1" 200 -
+2022-06-23 06:57:32,571 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:57:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 06:57:32,593 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:57:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 06:57:35,396 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:57:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-06-23 06:58:14,075 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:35} gre_score=335.0, toefl_score=117.0, university_rating=4.0
+2022-06-23 06:58:14,076 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:36} sop=4.5, lor=4.5, cgpa=9.2, research=1
+2022-06-23 06:58:14,077 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:38} Model Loading
+2022-06-23 06:58:14,765 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:40} Model Loaded
+2022-06-23 06:58:14,768 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:44} prediction=940
+2022-06-23 06:58:14,770 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:46} Render Result
+2022-06-23 06:58:14,950 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:58:14] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2022-06-23 06:58:15,209 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:58:15] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-23 06:58:15,337 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:58:15] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-23 06:58:15,987 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 06:58:15] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-23 07:04:04,859 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 07:04:04,924 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 07:04:04,933 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 07:04:11,663 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 07:04:11,720 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 07:04:11,765 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 07:05:03,065 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:05:03] "GET / HTTP/1.1" 200 -
+2022-06-23 07:05:03,433 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:05:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 07:05:03,444 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:05:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 07:05:04,614 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:05:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-06-23 07:05:33,588 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:35} gre_score=335.0, toefl_score=117.0, university_rating=4.0
+2022-06-23 07:05:33,590 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:36} sop=4.5, lor=4.5, cgpa=9.8, research=1
+2022-06-23 07:05:33,591 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:38} Model Loading
+2022-06-23 07:05:34,348 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:40} Model Loaded
+2022-06-23 07:05:34,356 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:44} prediction=945
+2022-06-23 07:05:34,359 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:46} Render Result
+2022-06-23 07:05:34,383 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:05:34] "POST /predict HTTP/1.1" 200 -
+2022-06-23 07:05:34,554 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:05:34] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-23 07:05:34,656 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:05:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 07:12:34,268 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 07:12:34,306 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 07:12:34,312 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 07:12:45,625 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 07:12:45,654 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 07:12:45,684 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 07:12:57,996 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:12:57] "GET / HTTP/1.1" 200 -
+2022-06-23 07:12:58,541 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:12:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 07:12:58,575 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:12:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 07:13:00,548 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:13:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-06-23 07:13:41,994 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:35} gre_score=348.0, toefl_score=123.0, university_rating=4.0
+2022-06-23 07:13:41,995 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:36} sop=4.5, lor=5.0, cgpa=9.3, research=1
+2022-06-23 07:13:41,996 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:38} Model Loading
+2022-06-23 07:13:42,647 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:40} Model Loaded
+2022-06-23 07:13:42,651 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:44} prediction=975
+2022-06-23 07:13:42,652 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:46} Render Result
+2022-06-23 07:13:42,688 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:13:42] "POST /predict HTTP/1.1" 200 -
+2022-06-23 07:13:43,073 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:13:43] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-23 07:13:43,292 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:13:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 07:30:37,890 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 07:30:37,930 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 07:30:37,936 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 07:30:50,169 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 07:30:50,194 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 07:30:50,218 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 07:31:12,786 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:31:12] "GET / HTTP/1.1" 200 -
+2022-06-23 07:31:14,088 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:31:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 07:31:14,089 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:31:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 07:31:43,448 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:35} gre_score=335.0, toefl_score=117.0, university_rating=4.0
+2022-06-23 07:31:43,450 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:36} sop=4.5, lor=4.5, cgpa=9.3, research=1
+2022-06-23 07:31:43,451 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:38} Model Loading
+2022-06-23 07:31:44,053 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:40} Model Loaded
+2022-06-23 07:31:44,055 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:44} prediction=941
+2022-06-23 07:31:44,056 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:46} Render Result
+2022-06-23 07:31:44,073 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:31:44] "POST /predict HTTP/1.1" 200 -
+2022-06-23 07:31:44,247 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:31:44] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-23 07:31:44,275 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:31:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 07:52:41,245 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 07:52:41,316 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 07:52:41,327 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 07:52:49,251 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 07:52:49,292 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 07:52:49,322 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 07:52:54,633 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:52:54] "GET / HTTP/1.1" 200 -
+2022-06-23 07:52:55,583 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:52:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 07:52:55,586 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:52:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 07:53:29,649 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:35} gre_score=350.0, toefl_score=125.0, university_rating=4.0
+2022-06-23 07:53:29,650 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:36} sop=4.5, lor=4.5, cgpa=9.0, research=1
+2022-06-23 07:53:29,652 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:38} Model Loading
+2022-06-23 07:53:30,102 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:40} Model Loaded
+2022-06-23 07:53:30,105 ERROR {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:52} Exception=Expected 2D array, got 1D array instead:
+array=[350.  125.    4.    4.5   4.5   9.    1. ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2022-06-23 07:53:30,174 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:53:30] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2022-06-23 07:53:30,259 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:53:30] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-23 07:53:30,309 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:53:30] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-23 07:53:30,769 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:53:30] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-23 07:53:33,466 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:53:33] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-23 07:56:55,581 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 07:56:55,622 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 07:56:55,627 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 07:57:03,647 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 07:57:03,712 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 07:57:03,753 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 07:57:45,711 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:57:45] "GET / HTTP/1.1" 200 -
+2022-06-23 07:57:45,787 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:57:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 07:57:45,797 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:57:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 07:57:54,957 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:57:54] "GET / HTTP/1.1" 200 -
+2022-06-23 07:57:55,547 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:57:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 07:57:55,551 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:57:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 07:58:21,476 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:35} gre_score=350.0, toefl_score=127.0, university_rating=4.0
+2022-06-23 07:58:21,476 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:36} sop=4.5, lor=4.5, cgpa=9.8, research=1
+2022-06-23 07:58:21,476 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:38} Model Loading
+2022-06-23 07:58:21,855 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:40} Model Loaded
+2022-06-23 07:58:21,855 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:42} Scaler model loading
+2022-06-23 07:58:21,856 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:44} Scaler model loaded
+2022-06-23 07:58:21,858 ERROR {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:55} Exception=Expected 2D array, got 1D array instead:
+array=[350.  127.    4.    4.5   4.5   9.8   1. ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2022-06-23 07:58:21,926 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:58:21] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2022-06-23 07:58:22,010 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:58:22] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-23 07:58:22,081 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:58:22] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-23 07:58:22,567 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 07:58:22] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-23 08:02:21,981 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 08:02:22,029 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 08:02:22,034 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 08:02:28,979 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 08:02:29,007 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 08:02:29,031 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 08:02:43,148 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 08:02:43] "GET / HTTP/1.1" 200 -
+2022-06-23 08:02:43,637 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 08:02:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 08:02:43,652 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 08:02:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 08:03:17,308 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:36} gre_score=350.0, toefl_score=125.0, university_rating=4.0
+2022-06-23 08:03:17,308 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:37} sop=4.5, lor=4.7, cgpa=9.6, research=1
+2022-06-23 08:03:17,309 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:39} Model Loading
+2022-06-23 08:03:17,613 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:41} Model Loaded
+2022-06-23 08:03:17,613 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:43} Scaler model loading
+2022-06-23 08:03:17,614 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:45} Scaler model loaded
+2022-06-23 08:03:17,619 ERROR {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:56} Exception='numpy.ndarray' object has no attribute 'columns'
+2022-06-23 08:03:17,679 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 08:03:17] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2022-06-23 08:03:17,745 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 08:03:17] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-23 08:03:17,793 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 08:03:17] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-23 08:03:18,261 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 08:03:18] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-23 08:08:40,368 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 08:08:40,406 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 08:08:40,412 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 08:08:47,060 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 08:08:47,098 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 08:08:47,144 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 08:09:13,426 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 08:09:13] "GET / HTTP/1.1" 200 -
+2022-06-23 08:09:13,596 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 08:09:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 08:09:13,601 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 08:09:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 08:10:00,130 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:36} gre_score=350.0, toefl_score=125.0, university_rating=4.0
+2022-06-23 08:10:00,132 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:37} sop=4.5, lor=4.5, cgpa=9.89, research=1
+2022-06-23 08:10:00,132 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:39} Model Loading
+2022-06-23 08:10:00,480 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:41} Model Loaded
+2022-06-23 08:10:00,480 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:43} Scaler model loading
+2022-06-23 08:10:00,482 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:45} Scaler model loaded
+2022-06-23 08:10:00,484 ERROR {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:56} Exception=Expected 2D array, got 1D array instead:
+array=[350.   125.     4.     4.5    4.5    9.89   1.  ].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2022-06-23 08:10:00,554 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 08:10:00] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2022-06-23 08:10:00,624 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 08:10:00] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-23 08:10:00,691 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 08:10:00] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-23 08:10:01,168 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 08:10:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-23 12:47:21,477 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 12:47:21,536 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 12:47:21,546 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 12:47:28,827 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 12:47:28,855 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 12:47:28,891 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 12:50:24,978 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 12:50:24] "GET / HTTP/1.1" 200 -
+2022-06-23 12:50:26,136 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 12:50:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 12:50:26,139 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 12:50:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 12:50:27,990 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 12:50:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-06-23 12:51:04,866 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:36} gre_score=355.0, toefl_score=127.0, university_rating=4.0
+2022-06-23 12:51:04,868 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:37} sop=4.5, lor=4.5, cgpa=9.8, research=1
+2022-06-23 12:51:04,868 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:39} Model Loading
+2022-06-23 12:51:05,664 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:41} Model Loaded
+2022-06-23 12:51:05,665 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:43} Scaler model loading
+2022-06-23 12:51:05,667 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:45} Scaler model loaded
+2022-06-23 12:51:05,677 ERROR {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:57} Exception='numpy.ndarray' object has no attribute 'columns'
+2022-06-23 12:51:05,783 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 12:51:05] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2022-06-23 12:51:05,896 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 12:51:05] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-23 12:51:06,050 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 12:51:06] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-23 12:51:06,576 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 12:51:06] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-23 13:01:37,473 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 13:01:37,510 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 13:01:37,516 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 13:01:43,543 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 13:01:43,565 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 13:01:43,588 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 13:02:16,163 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:02:16] "GET / HTTP/1.1" 200 -
+2022-06-23 13:02:16,978 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:02:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 13:02:16,982 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:02:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 13:02:42,194 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:36} gre_score=350.0, toefl_score=150.0, university_rating=4.0
+2022-06-23 13:02:42,195 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:37} sop=4.5, lor=4.5, cgpa=9.8, research=1
+2022-06-23 13:02:42,196 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:39} Model Loading
+2022-06-23 13:02:42,566 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:41} Model Loaded
+2022-06-23 13:02:42,566 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:43} Scaler model loading
+2022-06-23 13:02:42,567 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:45} Scaler model loaded
+2022-06-23 13:02:42,568 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:48} [[350.  150.    4.    4.5   4.5   9.8   1. ]]
+2022-06-23 13:02:42,572 ERROR {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:58} Exception='numpy.ndarray' object has no attribute 'columns'
+2022-06-23 13:02:42,644 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:02:42] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2022-06-23 13:02:42,730 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:02:42] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-23 13:02:42,764 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:02:42] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-23 13:02:43,185 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:02:43] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-23 13:12:04,181 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Detected change in 'D:\\iNeuron\\FSDS\\Projects\\ML Projects\\Linear Regression\\AdmissionPrediction\\app.py', reloading
+2022-06-23 13:12:05,173 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 13:15:18,634 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 13:15:18,682 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 13:15:18,690 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 13:15:27,342 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 13:15:27,370 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 13:15:27,401 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 13:15:53,298 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:15:53] "GET / HTTP/1.1" 200 -
+2022-06-23 13:15:53,429 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:15:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 13:15:53,444 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:15:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 13:16:42,628 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:37} gre_score=350.0, toefl_score=177.0, university_rating=4.0
+2022-06-23 13:16:42,629 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:38} sop=4.5, lor=4.5, cgpa=4.5, research=1
+2022-06-23 13:16:42,630 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:40} Model Loading
+2022-06-23 13:16:42,972 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:42} Model Loaded
+2022-06-23 13:16:42,972 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:44} Scaler model loading
+2022-06-23 13:16:42,973 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:46} Scaler model loaded
+2022-06-23 13:16:42,974 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:49}        0      1    2    3    4    5    6
+0  350.0  177.0  4.0  4.5  4.5  4.5  1.0
+2022-06-23 13:16:43,051 ERROR {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:59} Exception='numpy.ndarray' object has no attribute 'columns'
+2022-06-23 13:16:43,132 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:16:43] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2022-06-23 13:16:43,301 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:16:43] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-23 13:16:43,435 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:16:43] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-23 13:16:43,807 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:16:43] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-23 13:18:21,212 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 13:18:21,258 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 13:18:21,266 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 13:18:30,127 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 13:18:30,154 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 13:18:30,183 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 13:19:57,820 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:19:57] "GET / HTTP/1.1" 200 -
+2022-06-23 13:19:59,157 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:19:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 13:19:59,162 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:19:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 13:19:59,265 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:19:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 13:19:59,274 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:19:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 13:20:24,632 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:37} gre_score=350.0, toefl_score=177.0, university_rating=4.0
+2022-06-23 13:20:24,634 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:38} sop=4.0, lor=4.0, cgpa=7.8, research=1
+2022-06-23 13:20:24,635 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:40} Model Loading
+2022-06-23 13:20:25,145 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:42} Model Loaded
+2022-06-23 13:20:25,146 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:44} Scaler model loading
+2022-06-23 13:20:25,148 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:46} Scaler model loaded
+2022-06-23 13:20:25,148 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:49} [[350.  177.    4.    4.    4.    7.8   1. ]]
+2022-06-23 13:20:25,176 ERROR {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:59} Exception=list() takes no keyword arguments
+2022-06-23 13:20:25,316 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:20:25] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2022-06-23 13:20:25,477 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:20:25] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-23 13:20:25,507 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:20:25] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-23 13:20:25,987 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:20:25] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-23 13:23:17,147 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 13:23:17,197 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 13:23:17,203 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 13:23:24,849 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 13:23:24,877 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 13:23:24,904 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 13:23:46,454 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:23:46] "GET / HTTP/1.1" 200 -
+2022-06-23 13:24:12,868 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:37} gre_score=350.0, toefl_score=177.0, university_rating=4.0
+2022-06-23 13:24:12,869 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:38} sop=4.5, lor=4.5, cgpa=7.89, research=1
+2022-06-23 13:24:12,870 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:40} Model Loading
+2022-06-23 13:24:13,437 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:42} Model Loaded
+2022-06-23 13:24:13,437 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:44} Scaler model loading
+2022-06-23 13:24:13,439 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:46} Scaler model loaded
+2022-06-23 13:24:13,440 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:48} [350.0, 177.0, 4.0, 4.5, 4.5, 7.89, 1]
+2022-06-23 13:24:13,442 ERROR {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:58} Exception='DataFrame' object has no attribute 'reshape'
+2022-06-23 13:24:13,600 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:24:13] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2022-06-23 13:24:13,834 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:24:13] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-23 13:24:13,882 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:24:13] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-23 13:24:14,419 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:24:14] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-23 13:37:19,374 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 13:37:19,414 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 13:37:19,420 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 13:37:26,580 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 13:37:26,604 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 13:37:26,630 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 13:39:10,639 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:39:10] "GET / HTTP/1.1" 200 -
+2022-06-23 13:39:10,879 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:39:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 13:39:10,894 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:39:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 13:54:40,778 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:37} gre_score=350.0, toefl_score=117.0, university_rating=4.0
+2022-06-23 13:54:40,778 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:38} sop=4.5, lor=4.5, cgpa=9.87, research=1
+2022-06-23 13:54:40,779 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:40} Model Loading
+2022-06-23 13:54:40,925 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:42} Model Loaded
+2022-06-23 13:54:40,926 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:44} Scaler model loading
+2022-06-23 13:54:40,926 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:46} Scaler model loaded
+2022-06-23 13:54:40,927 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:48} [350.0, 117.0, 4.0, 4.5, 4.5, 9.87, 1]
+2022-06-23 13:54:40,928 ERROR {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:58} Exception='DataFrame' object has no attribute 'reshape'
+2022-06-23 13:54:40,952 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:54:40] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2022-06-23 13:54:40,983 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:54:40] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-23 13:54:40,998 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:54:40] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-23 13:54:41,016 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:54:41] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-23 13:55:37,292 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 13:55:37,309 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 13:55:37,311 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 13:55:46,386 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 13:55:46,427 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 13:55:46,464 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 13:55:55,327 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:55:55] "GET / HTTP/1.1" 200 -
+2022-06-23 13:55:55,783 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:55:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 13:55:55,796 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:55:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 13:56:55,518 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:37} gre_score=350.0, toefl_score=177.0, university_rating=4.0
+2022-06-23 13:56:55,520 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:38} sop=4.5, lor=5.0, cgpa=9.8, research=1
+2022-06-23 13:56:55,521 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:40} Model Loading
+2022-06-23 13:56:56,045 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:42} Model Loaded
+2022-06-23 13:56:56,045 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:44} Scaler model loading
+2022-06-23 13:56:56,047 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:46} Scaler model loaded
+2022-06-23 13:56:56,048 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:48} [350.0, 177.0, 4.0, 4.5, 5.0, 9.8, 1]
+2022-06-23 13:56:56,069 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:50} [[ 2.15819989]
+ [ 0.78168961]
+ [-0.59482067]
+ [-0.59084232]
+ [-0.58686396]
+ [-0.54867177]
+ [-0.61869079]]
+2022-06-23 13:56:56,072 ERROR {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:58} Exception=Found array with dim 3. ElasticNet expected <= 2.
+2022-06-23 13:56:56,210 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:56:56] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2022-06-23 13:56:56,538 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:56:56] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-23 13:56:56,557 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:56:56] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-23 13:56:57,156 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:56:57] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-23 13:58:05,351 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 13:58:05,393 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 13:58:05,399 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 13:58:15,222 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 13:58:15,257 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 13:58:15,284 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 13:58:31,090 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:58:31] "GET / HTTP/1.1" 200 -
+2022-06-23 13:58:31,216 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:58:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 13:58:31,221 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:58:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 13:58:54,539 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:37} gre_score=350.0, toefl_score=177.0, university_rating=4.0
+2022-06-23 13:58:54,541 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:38} sop=4.5, lor=4.5, cgpa=9.8, research=1
+2022-06-23 13:58:54,543 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:40} Model Loading
+2022-06-23 13:58:55,065 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:42} Model Loaded
+2022-06-23 13:58:55,065 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:44} Scaler model loading
+2022-06-23 13:58:55,067 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:46} Scaler model loaded
+2022-06-23 13:58:55,068 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:48} [350.0, 177.0, 4.0, 4.5, 4.5, 9.8, 1]
+2022-06-23 13:58:55,091 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:50} [[0. 0. 0. 0. 0. 0. 0.]]
+2022-06-23 13:58:55,093 ERROR {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:58} Exception=Found array with dim 3. ElasticNet expected <= 2.
+2022-06-23 13:58:55,231 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:58:55] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2022-06-23 13:58:55,432 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:58:55] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-06-23 13:58:55,473 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:58:55] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-06-23 13:58:56,119 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 13:58:56] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-06-23 14:00:52,119 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 14:00:52,174 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 14:00:52,181 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 14:01:02,379 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 14:01:02,429 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 14:01:02,469 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 14:01:02,581 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 14:01:02] "GET / HTTP/1.1" 200 -
+2022-06-23 14:01:02,733 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 14:01:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2022-06-23 14:01:02,754 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 14:01:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 14:01:44,330 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:37} gre_score=350.0, toefl_score=177.0, university_rating=4.0
+2022-06-23 14:01:44,331 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:38} sop=4.5, lor=4.5, cgpa=9.8, research=1
+2022-06-23 14:01:44,332 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:40} Model Loading
+2022-06-23 14:01:44,844 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:42} Model Loaded
+2022-06-23 14:01:44,845 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:44} Scaler model loading
+2022-06-23 14:01:44,847 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:46} Scaler model loaded
+2022-06-23 14:01:44,847 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:48} [350.0, 177.0, 4.0, 4.5, 4.5, 9.8, 1]
+2022-06-23 14:01:44,879 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:50} [[0. 0. 0. 0. 0. 0. 0.]]
+2022-06-23 14:01:44,882 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:53} prediction=72
+2022-06-23 14:01:44,883 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\app.py:55} Render Result
+2022-06-23 14:01:44,899 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 14:01:44] "POST /predict HTTP/1.1" 200 -
+2022-06-23 14:01:45,095 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 14:01:45] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2022-06-23 14:01:45,283 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224} 127.0.0.1 - - [23/Jun/2022 14:01:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-06-23 14:19:28,942 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 14:19:28,997 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 14:19:29,005 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 14:19:40,798 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 14:19:40,821 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 14:19:40,842 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
+2022-06-23 14:24:37,321 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 14:24:37,359 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-23 14:24:37,364 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Restarting with stat
+2022-06-23 14:24:48,227 INFO {D:\iNeuron\FSDS\Projects\ML Projects\Linear Regression\AdmissionPrediction\utils.py:22} 
+
+
+**********New execution begins************
+
+
+
+2022-06-23 14:24:48,252 WARNING {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger is active!
+2022-06-23 14:24:48,276 INFO {D:\ProgramData\Anaconda3\envs\AdmissionPrediction\lib\site-packages\werkzeug\_internal.py:224}  * Debugger PIN: 834-856-407
